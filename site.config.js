@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `TheDommyLlama`,
-      href: "https://github.com/dommyvee/morethan",
+      href: "https://morethan-five.vercel.app/thedommyllama",
     },
   ],
   // blog setting (required)
