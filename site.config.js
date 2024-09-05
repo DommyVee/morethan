@@ -14,6 +14,8 @@ const CONFIG = {
     {
       name: `TheDommyLlama`,
       href: "https://morethan-five.vercel.app/thedommyllama",
+      name: `Two Ds in a Podcast`,
+      href: "https://morethan-five.vercel.app/2dp" ,
     },
   ],
   // blog setting (required)
